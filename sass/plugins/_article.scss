@@ -1,0 +1,34 @@
+.gallery{
+  width: 100%;
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+.gallery a{ 
+    display: inline-block;
+    line-height: 1;
+    overflow: hidden;
+}
+
+.gallery img{
+    width: 290px;
+    margin: 13px;
+    margin-bottom: 0px;
+    border-width: 0 5px;
+    border: 5px solid #eee;
+}
+
+.gallery .gallery-item img{
+    height: 180px;
+}
+
+.gallery-item{
+    float: left;
+    width: 320px;
+    height: 241px;
+    margin-bottom: 30px;
+}
+
+.gallery-item h3 {
+  text-align: center;
+}
