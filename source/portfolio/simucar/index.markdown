@@ -1,24 +1,24 @@
 ---
-layout: page
-title: "simucar"
-date: 2013-02-23 07:21
+layout: project
+title: "Zenoir"
 comments: false
 sharing: true
 footer: true
 ---
 
+###Simucar
 
-##Project Type
+####Project Type
 
 Personal Project
 
 
-##Project Description
+####Project Description
 
 Zenoir Online Classroom is an online learning system which can be used by teachers and students for conducting classes online. It's main feature is the sessions module wherein the teacher can have a discussion with the students using a chat box. This is implemented using Node.js and socket.io to ensure that the messages are distributed in real-time. It has also a distinct way of indicating unread posts by using red stars. There is also an email notification system which sends out emails to the students and teachers whenever a new post is made by a specific user in the classroom.
 
 
-##Technologies Used
+####Technologies Used
 
 - HTML
 - CSS
@@ -30,14 +30,12 @@ Zenoir Online Classroom is an online learning system which can be used by teache
 - PixelCone Fileuploader
 
 
-
-
-##Github Repo
+####Github Repo
 
 [Zenoir Online Classroom](https://github.com/anchetaWern/Zenoir-Online-Classroom)
 
 
 
-##Screenshots
+####Screenshots
 
 {% portfolio simucar %}

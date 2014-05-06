@@ -1,2 +1,18 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+.navigation li{
+	display: inline;
+}
+
+.navigation .btn {
+	width: 100px;
+	color: #fff;
+	border: 1px solid #fff;
+}
+
+.navigation .btn:hover{
+	background-color: #fff;
+	color: #a62d00;
+}
+

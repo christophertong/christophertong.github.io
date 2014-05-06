@@ -40,10 +40,11 @@ module Jekyll
                 
                 if(screenshot.index "main")
 
-                  content += '<div class="gallery-item">'
-                  content += '<a rel="gallery1" title="' + title + '" href="' + img + '" class="fancybox"><img src="' + img + '"></a>'
+                  content += '<div class="gallery-item col-md-3">'
+                  content += '<a rel="gallery1" title="' + title + '" href="' + link + '" class="fancybox"><img src="' + img + '"></a>'
                   content += '<h3><a href="' + link + '">' + project_name + '</a></h3>'
                   content += '</div>'
+                  content += '<br>'
                 end
               end
             end
