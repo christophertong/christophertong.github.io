@@ -9,8 +9,8 @@
   <meta name="author" content="Your Name">
 
   
-  <meta name="description" content="Christopher Tong
-cities. technology. design. About Portfolio about me Hey there! I grew up in the small town of San Francisco, CA and recently moved &hellip;">
+  <meta name="description" content=".menu-bar ul li a { color: white; } Christopher Tong
+cities. technology. design. About Portfolio about me Hey there! I grew up in the small town of &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -32,11 +32,30 @@ cities. technology. design. About Portfolio about me Hey there! I grew up in the
 </head>
 
   <body>
-    <a href="/" class="home-icon">
-      <img src="/images/home.png"/>
-    </a>
+<!-- 	<a href="/" class="home-icon"><img src="/images/home.png"/></a>
+  	<ul class="home-menu">
+    	<li class="home-list"><a href="/about" class="white-font">about.</a></li>
+  		<li class="home-list"><a href="/portfolio" class="white-font">portfolio.</a></li>
+  		<li class="home-list"><a href="/" class="white-font">blog.</a></li>
+    </ul> -->
 
-    <div class="home-page">
+    <ul class="menu-bar">
+      <li>
+          <a href="/" class="home-icon"><img src="/images/home.png"/></a>
+          <ul class="home-menu">
+            <li class="home-list"><a href="/about" class="white-font">about.</a></li>
+            <li class="home-list"><a href="/portfolio" class="white-font">portfolio.</a></li>
+            <li class="home-list"><a href="/posts" class="white-font">blog.</a></li>
+          </ul>
+      </li>
+    </ul>
+
+    <style type="text/css">
+      .menu-bar ul li a {
+          color: white;
+      }
+</style>
+<div class="home-page">
   <div class="hero">
     <h1>Christopher Tong</h1>
 <p>cities. technology. design.</p>
@@ -73,10 +92,47 @@ cities. technology. design. About Portfolio about me Hey there! I grew up in the
           <div class="row">
             <div class="col-md-offset-3 col-md-6">
               <article>
+  <h2><a href="/blog/2014/05/22/keep-dry-socks-part-2/">Keep the Socks Dry - Part 2</a></h2>
+  
+  <p>
+    <p>Travel experiences</p>
+
+
+  </p>
+  <span class="meta">
+    written 
+
+
+
+
+
+
+
+
+  
+
+
+
+<time datetime="2014-05-22T06:44:11+09:00" pubdate data-updated="true">May 22, 2014</time> in 
+    
+
+
+  </span>
+
+  
+</article>
+
+            </div>
+          </div>
+        
+          
+          <div class="row">
+            <div class="col-md-offset-3 col-md-6">
+              <article>
   <h2><a href="/blog/2014/03/29/first-post/">Keep the Socks Dry - What I Learned While Traveling</a></h2>
   
   <p>
-    <p><p>Since graduating in May of last year, I have been lucky enough to spend time in 20 cities, 11 countries, in 3 continents. Some nights I staked out in swanky company hotel rooms. Others were far more humble &ndash; freezing my butt off on a stranger&rsquo;s couch, hoping that the person who used the sheets before me kept good hygiene. During my travels I have made some very poor decisions which I have aggregated here so that you and I will not make the same mistakes again. Here are the top few things that I wish I knew last May</p>
+    <p><p>Since graduating in May of last year, I have been lucky enough to spend time in 20 cities, 11 countries, in 3 continents. Some nights I staked out in swanky company hotel rooms. Others were far more humble &ndash; freezing on a stranger&rsquo;s couch, hoping that the person who used the sheets before me kept good hygiene. During my travels I made some very poor decisions which I have aggregated here so that you and I will not make the same mistakes again. Here are the top few things that I wish I knew last May</p>
 
   </p>
   <span class="meta">
@@ -124,7 +180,8 @@ cities. technology. design. About Portfolio about me Hey there! I grew up in the
   </div>
 </div>
 
-    <footer id="footer" class="her-row">
+    
+      <footer id="footer" class="her-row">
   <div class="container">
     <div class="row">
       <div class="col-md-1">
@@ -148,5 +205,16 @@ cities. technology. design. About Portfolio about me Hey there! I grew up in the
   </div>
 </footer>
 
+    
   </body>
+  <script type="text/javascript">
+    // $(document).ready(function(){
+    //   $(".home-icon").mouseover(function(){
+    //     $(".home-list").css("visibility","visible");
+    //     });
+    //   $(".home-menu").mouseout(function(){
+    //     $(".home-list").css("visibility","hidden");
+    //   })
+    // });
+  </script>
 </html>

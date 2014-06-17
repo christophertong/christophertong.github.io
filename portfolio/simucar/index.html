@@ -31,9 +31,23 @@
 </head>
 
   <body>
-    <a href="/" class="home-icon">
-      <img src="/images/home.png"/>
-    </a>
+<!-- 	<a href="/" class="home-icon"><img src="/images/home.png"/></a>
+  	<ul class="home-menu">
+    	<li class="home-list"><a href="/about" class="white-font">about.</a></li>
+  		<li class="home-list"><a href="/portfolio" class="white-font">portfolio.</a></li>
+  		<li class="home-list"><a href="/" class="white-font">blog.</a></li>
+    </ul> -->
+
+    <ul class="menu-bar">
+      <li>
+          <a href="/" class="home-icon"><img src="/images/home.png"/></a>
+          <ul class="home-menu">
+            <li class="home-list"><a href="/about" class="white-font">about.</a></li>
+            <li class="home-list"><a href="/portfolio" class="white-font">portfolio.</a></li>
+            <li class="home-list"><a href="/posts" class="white-font">blog.</a></li>
+          </ul>
+      </li>
+    </ul>
 
     <div class="container top narrow">
       <h3>Simucar</h3>
@@ -71,7 +85,8 @@
 
 </div>
 <hr class="divider-short">
-    <footer id="footer" class="her-row">
+    
+      <footer id="footer" class="her-row">
   <div class="container">
     <div class="row">
       <div class="col-md-1">
@@ -95,5 +110,16 @@
   </div>
 </footer>
 
+    
   </body>
+  <script type="text/javascript">
+    // $(document).ready(function(){
+    //   $(".home-icon").mouseover(function(){
+    //     $(".home-list").css("visibility","visible");
+    //     });
+    //   $(".home-menu").mouseout(function(){
+    //     $(".home-list").css("visibility","hidden");
+    //   })
+    // });
+  </script>
 </html>

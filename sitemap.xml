@@ -2,38 +2,46 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://christophertong.github.io/blog/2014/03/29/first-post/</loc>
-        <lastmod>2014-05-15T20:56:58+09:00</lastmod>
+        <lastmod>2014-06-15T22:33:33+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://christophertong.github.io/blog/2014/05/22/keep-dry-socks-part-2/</loc>
+        <lastmod>2014-06-15T22:33:33+09:00</lastmod>
     </url>
     <url>
         <loc>http://christophertong.github.io/about/</loc>
-        <lastmod>2014-05-15T20:56:58+09:00</lastmod>
+        <lastmod>2014-06-15T22:33:33+09:00</lastmod>
     </url>
     <url>
         <loc>http://christophertong.github.io/blog/archives/</loc>
-        <lastmod>2014-05-15T20:56:58+09:00</lastmod>
+        <lastmod>2014-06-15T22:33:33+09:00</lastmod>
     </url>
     <url>
         <loc>http://christophertong.github.io/</loc>
-        <lastmod>2014-05-15T20:56:58+09:00</lastmod>
+        <lastmod>2014-06-17T06:38:51+09:00</lastmod>
     </url>
     <url>
         <loc>http://christophertong.github.io/portfolio/</loc>
-        <lastmod>2014-05-15T20:56:58+09:00</lastmod>
+        <lastmod>2014-06-15T22:33:33+09:00</lastmod>
     </url>
     <url>
         <loc>http://christophertong.github.io/portfolio/simpleapp/</loc>
-        <lastmod>2014-04-08T01:38:49+09:00</lastmod>
+        <lastmod>2014-06-15T22:33:33+09:00</lastmod>
     </url>
     <url>
         <loc>http://christophertong.github.io/portfolio/simucar/</loc>
-        <lastmod>2014-04-08T01:38:49+09:00</lastmod>
+        <lastmod>2014-06-15T22:33:33+09:00</lastmod>
     </url>
     <url>
         <loc>http://christophertong.github.io/posts/</loc>
-        <lastmod>2014-05-15T20:56:58+09:00</lastmod>
+        <lastmod>2014-06-15T22:33:33+09:00</lastmod>
     </url>
     <url>
         <loc>http://christophertong.github.io/robots.txt</loc>
         <lastmod>2014-04-01T01:45:12+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://christophertong.github.io/travel/</loc>
+        <lastmod>2014-06-17T23:04:17+09:00</lastmod>
     </url>
 </urlset>
