@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "San Francisco",
+        "LATITUDE": 37.7400077505,
+        "LONGITUDE": -122.459977663,
+        "POP_MAX": 3450000,
+        "POP_MIN": 732072,
+        "Visited": "1993-2014",
+        "Description": "Take a jog from the Embarcadero through Golden Gate Park to Ocean Beach. The most naturally beautiful city in the world"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41716877355225,
+          37.76919562968743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Seoul",
+        "LATITUDE": 52.3499686881,
+        "LONGITUDE": 4.91664017601,
+        "POP_MAX": 1031000,
+        "POP_MIN": 741636,
+        "Visited": "Spring 2014",
+        "Description": "Stay out the night at a samgyupsal restaurant. Seoul is most beautiful illuminated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.99778513820195,
+          37.56829495838895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Taipei",
+        "LATITUDE": 25.03583333333,
+        "LONGITUDE": 121.56833333333,
+        "POP_MAX": 6900273,
+        "POP_MIN": 2618772,
+        "Visited": "Summer 2011, Summer 2013",
+        "Description": "Ding Tai Fung may be the best restaurant ever! You will fall in love with the Taiwanese, everybody does"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.568333333333,
+          25.0358333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "New York",
+        "LATITUDE": 40.749979064,
+        "LONGITUDE": -73.9800169288,
+        "POP_MAX": 19040000,
+        "POP_MIN": 8008278,
+        "Visited": "Summer 2008, Winter 2014",
+        "Description": "New York is dirty and either too hot or too cold. There is no comparison to watching the sun rise over the Big Apple"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98196278740681,
+          40.75192492259464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "London",
+        "LATITUDE": 51.4999947297,
+        "LONGITUDE": -0.11672184386,
+        "POP_MAX": 8567000,
+        "POP_MIN": 7421209,
+        "Visited": "Sp 14'",
+        "Description": "Posh city where every other car is an Aston Martin. A great place for free museums and long walks through eclectic neighborhoods"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.118667702475932,
+          51.5019405883275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Tokyo",
+        "LATITUDE": 35.6850169058,
+        "LONGITUDE": 139.751407429,
+        "POP_MAX": 35676000,
+        "POP_MIN": 8336599,
+        "Visited": "Fall 2013",
+        "Description": "The place to go to feel lost in the crowd. Halloween at Shibuya crossing is an experience like no other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.74946157054467,
+          35.686962764371174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Paris",
+        "LATITUDE": 48.8666929312,
+        "LONGITUDE": 2.33333532574,
+        "POP_MAX": 9904000,
+        "POP_MIN": 11177,
+        "Visited": "Spring 2014",
+        "PICTURE": "https://c2.staticflickr.com/4/3781/13277557153_34d54bab5e_n.jpg",
+        "Description": "The Eiffel Tower is beautiful as advertised and even with all the tourists, the City of Light does not fail to charm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33138946713035,
+          48.86863878981461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Hong Kong",
+        "LATITUDE": 22.304980895,
+        "LONGITUDE": 114.185009317,
+        "POP_MAX": 7206000,
+        "POP_MIN": 4551579,
+        "POP_OTHER": 4549026,
+        "Visited": "Many Times",
+        "Description": "Still has by far the best skyline. The city is more or less a big air conditioned mall, but seek and you will find a city full of history"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.18306345846304,
+          22.30692675357551
+        ]
+      }
+    }
+  ]
+}

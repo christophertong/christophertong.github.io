@@ -5,11 +5,37 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 {% include head.html %}
   <body>
-    <a href="/" class="home-icon">
-      <img src="/images/home.png"/>
-    </a>
+<!-- 	<a href="/" class="home-icon"><img src="/images/home.png"/></a>
+  	<ul class="home-menu">
+    	<li class="home-list"><a href="{{ root_url }}/about" class="white-font">about.</a></li>
+  		<li class="home-list"><a href="{{ root_url }}/portfolio" class="white-font">portfolio.</a></li>
+  		<li class="home-list"><a href="{{ root_url }}/" class="white-font">blog.</a></li>
+    </ul> -->
+
+    <ul class="menu-bar">
+      <li>
+          <a href="/" class="home-icon"><img src="/images/home.png"/></a>
+          <ul class="home-menu">
+            <li class="home-list"><a href="{{ root_url }}/about" class="white-font">about.</a></li>
+            <li class="home-list"><a href="{{ root_url }}/portfolio" class="white-font">portfolio.</a></li>
+            <li class="home-list"><a href="{{ root_url }}/posts" class="white-font">blog.</a></li>
+          </ul>
+      </li>
+    </ul>
 
     {{ content | expand_urls: root_url }}
-    {% include footer.html %}
+    {% unless page.footer == false %}
+      {% include footer.html %}
+    {% endunless %}
   </body>
+  <script type="text/javascript">
+    // $(document).ready(function(){
+    //   $(".home-icon").mouseover(function(){
+    //     $(".home-list").css("visibility","visible");
+    //     });
+    //   $(".home-menu").mouseout(function(){
+    //     $(".home-list").css("visibility","hidden");
+    //   })
+    // });
+  </script>
 </html>
