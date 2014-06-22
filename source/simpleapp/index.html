@@ -1,0 +1,50 @@
+---
+layout: project
+title: "SimpleApp"
+comments: false
+sharing: true
+footer: false
+---
+  
+  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <script src="/javascripts/jquery.slides.min.js"></script>
+
+  <script>
+    $(function(){
+      $("#slides").slidesjs({
+        width: 600,
+        height: 500,
+        navigation: {
+          effect: "fade"
+        },
+        pagination: {
+          active: false,
+          effect: "fade"
+        },
+        effect: {
+          fade: {
+            speed: 800
+          }
+        }
+      });
+    });
+  </script>
+  <div id="slides">
+    <img src="{{ root_url }}/images/pages/portfolio/simpleapp/Slide1.png">
+    {% img /images/simpleapp/Slide2.png%}
+    {% img /images/simpleapp/Slide3.png%}
+    {% img /images/simpleapp/Slide4.png%}
+    {% img /images/simpleapp/Slide5.png%}
+    {% img /images/simpleapp/Slide6.png%}
+    {% img /images/simpleapp/Slide7.png%}
+    {% img /images/simpleapp/Slide8.png%}
+    {% img /images/simpleapp/Slide9.png%}
+    {% img /images/simpleapp/Slide10.png%}
+    {% img /images/simpleapp/Slide11.png%}
+    {% img /images/simpleapp/Slide12.png%}
+    {% img /images/simpleapp/Slide13.png%}
+    {% img /images/simpleapp/Slide14.png%}
+    {% img /images/simpleapp/Slide15.png%}
+    {% img /images/simpleapp/Slide16.png%}
+    {% img /images/simpleapp/Slide17.png%}
+  </div>
