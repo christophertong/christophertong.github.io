@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>SimpleApp - ChristopherTong</title>
+  <title>Zenoir - ChristopherTong</title>
   <meta name="author" content="Your Name">
 
   
-  <meta name="description" content="SimpleApp Project Description Following human centered design principles, we envision SimpleApp as a fully functional dashboard of apps that will &hellip;">
+  <meta name="description" content="$(function(){ $("#slides").slidesjs({ width: 600, height: 500, navigation: { effect: "fade" }, pagination: { active: false, effect: "fade" }, effect &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -50,43 +50,50 @@
     </ul>
 
     <div class="container top narrow">
-      <h1>SimpleApp</h1>
+        <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <script src="jquery.slides.min.js"></script>
 
-<h3>Project Description</h3>
-
-<p>Following human centered design principles, we envision SimpleApp as a fully functional dashboard of apps that will optimize the smartphone to the needs of the senior population. Reactive buttons and a remote portal to organize applications, SimpleApp aims to create a unified design platform for developers and distributors to reach a previously marginalized group of users.</p>
-
-<p>After conducting countless hours of user interviews and testing, we presented SimpleApp at the Berkeley Mobile Startup Festival and received 2nd place overall.</p>
-
-<h4>Screenshots</h4>
-
+  <script>
+    $(function(){
+      $("#slides").slidesjs({
+        width: 600,
+        height: 500,
+        navigation: {
+          effect: "fade"
+        },
+        pagination: {
+          active: false,
+          effect: "fade"
+        },
+        effect: {
+          fade: {
+            speed: 800
+          }
+        }
+      });
+    });
+  </script>
+  <div id="slides">
+    <img src="simpleapp/Slide1.png">
+    <img src="simpleapp/Slide2.png">
+    <img src="simpleapp/Slide3.png">
+    <img src="simpleapp/Slide4.png">
+    <img src="simpleapp/Slide5.png">
+    <img src="simpleapp/Slide6.png">
+    <img src="simpleapp/Slide7.png">
+    <img src="simpleapp/Slide8.png">
+    <img src="simpleapp/Slide9.png">
+    <img src="simpleapp/Slide10.png">
+    <img src="simpleapp/Slide11.png">
+    <img src="simpleapp/Slide12.png">
+    <img src="simpleapp/Slide13.png">
+    <img src="simpleapp/Slide14.png">
+    <img src="simpleapp/Slide15.png">
+    <img src="simpleapp/Slide16.png">
+    <img src="simpleapp/Slide17.png">
+  </div>
 </div>
 <hr class="divider-short">
-    
-      <footer id="footer" class="her-row">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-1">
-  <a href="/"><h4>Home</h4></a>
-</div>
-
-<div class="col-md-2">
-  <div class="social-icon-list">
-    <a title="Twitter" href="#"><img src="/images/glyphicons_social_31_twitter.png"/></a>
-    <a title="GitHub" href="https://github.com/cktong"><img src="/images/glyphicons_social_21_github.png"/></a>
-    <a title="Linkedin" href="#"><img src="/images/glyphicons_social_17_linked_in.png"/></a>
-  </div>
-</div>
-
-<div class="pull-right">
-  <h4>Powered by <a href="http://octopress.org/">Octopress</a>. Theme by <a href="http://AdrianArtiles.com">Adrian Artiles</a>.</h4>
-</div>
-
-
-    </div>
-  </div>
-</footer>
-
     
   </body>
   <script type="text/javascript">
