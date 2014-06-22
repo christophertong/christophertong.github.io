@@ -103,6 +103,6 @@ facebook_like: false
 
 # potfolio jekyll plugin
 portfolio_root: /portfolio
-portfolio_img_root: /images/pages/portfolio
+portfolio_img_root: images/pages/portfolio
 portfolio_path: /Users/Tong/octopress-site/source/images/pages/portfolio
-portfolio_url: images/posts/pages/portfolio
+portfolio_url: images/pages/portfolio

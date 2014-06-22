@@ -3,7 +3,7 @@ layout: project
 title: "Zenoir"
 comments: false
 sharing: true
-footer: true
+footer: false
 ---
 
 ###Simucar
