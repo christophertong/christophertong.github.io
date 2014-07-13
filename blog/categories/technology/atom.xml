@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Technology | ChristopherTong]]></title>
+  <link href="http://christophertong.github.io/blog/categories/technology/atom.xml" rel="self"/>
+  <link href="http://christophertong.github.io/"/>
+  <updated>2014-07-13T18:23:09+09:00</updated>
+  <id>http://christophertong.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Future of Visual Displays]]></title>
+    <link href="http://christophertong.github.io/blog/2013/10/26/visual-displays/"/>
+    <updated>2013-10-26T07:03:28+09:00</updated>
+    <id>http://christophertong.github.io/blog/2013/10/26/visual-displays</id>
+    <content type="html"><![CDATA[<p><i>An article on the future relationship between visual displays and cameras. I begin by decomposing the function of the television and camera. The next sections argues that camera technology will enable users to have a more natural way for human to computer interaction. Likewise, the camera will act as a tool in human to human communication.</i><!--more--></p>
+
+<h3>What are televisions?</h3>
+
+<p>Watching TV is a collective experience done in a group setting as televisions allow multiple users to view the output of information from a single source. The current market trends toward smaller screens for personal consumption by a single user. Smaller screens such as tablets offer more control over the immediate content that flows from the screen. Due to touch screen capability and a screen that is arm’s length away, the user can quickly interact with the content through games, web browsing, watching videos, reading or more commonly as a combination of the aforementioned.</p>
+
+<p>Yet contrary to tablet screens, the single function of a television is for the user to only consume information. The size of screens keeps users at a distance, hindering content interaction. The traditional approach to interacting with content on the television has been through the use of the remote control. Remote controls are a very effective way of managing content in the past. It allowed users to adjust sound as well as sift through channels while providing a simple user interface via a system of real buttons. With practice, a viewer can navigate without taking the eyes off of the television. However television navigation strategies are no longer efficient in navigating the ever increasing content and entertainment options. Whereas media companies controlled the output of content in traditional television, current consumption trends toward users sifting through the vast amount of information on the web and dictating what they want to spend time consuming.</p>
+
+<p>The benefit televisions have over tablets is the social atmosphere that televisions provide in the space of the real world. Many people can participate in watching television at the same time. Users can share in the joy of a spectacular goal or discuss plots after watching a movie together. When the television is activated in the background, all users in the general vicinity are funneled the same information. It is not uncommon for televisions to be on in the background during meal times. The television allows individuals to focus on select aspects of information being displayed and dictates talking points of conversation with other individuals while still keeping unobtrusive to the general environment. For example, when the news is in the background, a user might discuss news stories with those around him. Tablets allow users to interact with others outside of their general vicinity. Televisions on the other hand are optimized for group settings with interactions occurring in the real world.</p>
+
+<h3>What is a Camera?</h3>
+
+<p>As the old saying goes “A picture is worth a thousand words.” Along with the keyboard, the camera is an input device that captures pictures and other media output we as users consume.  In many instances, humans are much more efficient when analyzing pictures than when analyzing words. In the case of Da Vinci’s Mona Lisa, the viewer can process the subtle colors of the trees and hills in the background, the flow of Mona Lisa’s dress, even the subtle smile on the subject, with a simple glance much more efficiently than in the form of a descriptive article.</p>
+
+<p>Words on the other hand prove superior in its relative preciseness compared to visuals. Words allow us to convey our thoughts and emotions as directly as possible. This is the reason why our interaction with computers is done through words. While it is difficult enough for humans to interpret the true emotions that Mono Lisa is trying to display, it is near impossible for a computer to do so. With words, we are able to direct our commands to the computer with as little ambiguity as possible.</p>
+
+<p>The camera’s most common function is still to enable social interaction between users that are not in the same geographical location. However, as the eye of the computer, camera’s will allow computers to soon have the ability to interpret motions, smiles, eye movement, sounds- all the social interactions that humans have been using to communicate for millennia. Cameras will become the most natural way of human to computer interaction.</p>
+
+<h3>Controlling Televisions</h3>
+
+<p>Most people hail the scene in “Minority Report” as the future of human computer interaction. The protagonist in the movie controls the computer by navigating through a 3d hologram with his hands. What many do not realize is that to stand in front of a screen with hands contorted is very tiring. The value of the traditional remote control is that by using tactile buttons, the user is able to completely focus on the television while parsing through channels. Remote control apps on the phone lack this tactile output and as a consequence users must draw their attention away from the television in order to navigate the remote. App remotes also disrupt the flow of second screen usage. Users simultaneously use their tablet or smartphone screen to access content while watching the television. By having the smartphone double as a remote control users would have to switch back and forth from the remote to access controls.</p>
+
+<p>Recent startup company Tobii made it possible for users to instantaneously control Windows 8 with their eyes. The technology tracks eye movements and is precise to the pixel. However, how would the television realize when the user is viewing the movie and when he or she actually wants to bring up the television menu? This is a design problem for remote control apps. New app designs should allow users to dictate when they want to toggle from movie to menu. In this setup, the remote app will feature only one button- no more than two. One tap to toggle menu mode, a tap to select content after the eye focuses and a final tap to switch out.  To solve the problem of second screen disruption, developers can implement technologies similar to Smart Pause in Galaxy S4 phones. Cameras can enable the tablet to realize when the user’s attention is switched to the television screen and will switch seamlessly to the remote app.</p>
+
+<h3>The Television as a Gateway to the Mind</h3>
+
+<p> Eye tracking technologies such as Tobii combined with light field cameras like Lytro have the possibility to create an immersive viewing experience. Lytro cameras create pictures that can be refocused. It is easy to imagine the incredible visual experience of having eye tracking technologies as the input to control light field enabled pictures. A potentially greater use of eye tracking technologies is to allow for another form of human to human communication. Imagine placing a baby in front of a Tobii enabled screen. Parents and doctors can track what the infant is looking at and can in a sense see through the eyes of the infant. Other use cases include autism patients, language barrier situations, and perhaps even pet interaction.  Future research is needed on the feasibility of these scenarios.</p>
+
+<p>Compared to smartphones and tablets, televisions have a much longer use life. Televisions are expensive and people do not switch televisions on each new iteration. Once purchased, televisions traditionally do not provide user information of marketable value for the manufacturer. However, second screen technologies now allow manufacturers to track what users browse while watching television. Assuming correlation between what users watch and what they browse on their smartphones or tablet, this allows marketers to have potentially valuable information about what content on televisions are effective- in a sense a second degree click through rate. There is no doubt that content when streamed to users’ living rooms or bars, have always allowed content interaction in ways that marketers may not have perceived. Marketers now have information on this.</p>
+]]></content>
+  </entry>
+  
+</feed>
