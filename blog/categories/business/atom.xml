@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Business | ChristopherTong]]></title>
+  <link href="http://christophertong.github.io/blog/categories/business/atom.xml" rel="self"/>
+  <link href="http://christophertong.github.io/"/>
+  <updated>2014-10-13T21:54:32+09:00</updated>
+  <id>http://christophertong.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[When Data Blurs]]></title>
+    <link href="http://christophertong.github.io/blog/2014/05/22/when-data-blurs/"/>
+    <updated>2014-05-22T06:44:11+09:00</updated>
+    <id>http://christophertong.github.io/blog/2014/05/22/when-data-blurs</id>
+    <content type="html"><![CDATA[<p>When I have the chance, I go to the company library to read. On this particular afternoon I picked up MIT Sloan Management Review&rsquo;s issue dedicated to data analytics. Conceding to the fact that I can never escape from work, I sat down and flipped through an editorial to this statement: as we live in an age of data abundance, upper management in all industries are hurriedly attempting to use new forms of data to make business decisions. To me, the &ldquo;hurried&rdquo; mentality described by the editor is a primary reason why many companies still have not succeed in smartly utilizing their data. I spend an absurd amount of my waking hours making sense of numbers and can comfortably claim that sometimes numbers just do not have much to say- at least not on things that a manager may know how to act on. <!--more-->Too many traditional business minds see this new trend of information abundance as a crystal ball where plaguing questions originating from the dawn of the industry will automatically be answered. Or worse yet, they see it as a mathematical proof that long held theories are fundamentally sound. Managers that feel a great urgency to gain insight from this crystal ball are doomed to the realization that the answers they provide may be more murky than expected.</p>
+
+<h3>Information gathering through Surveys</h3>
+
+<p>One of the root causes for the current infatuation with big data is the variety of sources that can be analyzed. Sales and shipments use to be the extent of information that an advanced intelligence team had to analyze their core business. Text, geospatial and clicktimes are fast becoming common commodities. But in many instances, companies not named Linkedin, Facebook or Google do not have the resources necessary for advanced research. Companies want insight on how consumers interact with their product. Enter the survey. On a scale of 1-10, how satisfied were you of this experience? How likely are you to recommend this product to your friends? With surveys, companies can analyze responses by region, age group and social economic status. Overall this source of information gathering is a crude way to quantify a previously unquantifiable attribute. Now with technology, qualitative analysis has suddenly become quantifiable and as such there is no actually determent to using surveys as an inadequate placeholder.</p>
+
+<p>There are inherent problems with using survey and reviews as a measurement of how a consumer truly feel about a product or company. Online popup surveys like those offered by SurveyMonkey give prizes on completion that will bias the selection of respondents. In addition, taking online reviews on face value is a very dangerous proposition. To paraphrase Steve Jobs, people don&rsquo;t know what they want and studies have shown that new reviewers on online retail or movie review sites are affected by previous reviews. (This may actually be a clever way for companies to influence consumer behavior but I digress.) Imagine a company moving into new product categories or implementing widespread strategies drawn from the conclusions of survey based studies &ndash; it is more common than you think.</p>
+
+<h3>Knowing what to measure, Knowing it is measurable</h3>
+
+<p>A recent Atlantic article detailed the methods researchers in Ohio State University used to find out &ldquo;how many times men think about sex in a day&rdquo;. The method is called experience sampling. Subjects download an app with buttons amount which are labelled food, sex and others. They are then asked to click one of the buttons each time they have the thought. Aside from how these techniques can greatly influence the outcome of the study, my main takeaway from this article is the difficultly in defining what is being measured. Since thoughts have no unit of measurement, what exactly constitutes as a &ldquo;thought&rdquo;? In marketing teams, impressions are measureable and so are clicktimes, but in actuality is what the company wants to know answerable using these measurements? Sometimes no and sometimes maybe, but almost never an absolute yes.</p>
+
+<h3>Ethnography as a Supplement</h3>
+
+<p>With these newfound abilities to quantify everything about a user, old fashioned targeted user ethnographic research is often left at the wayside. Ethnography studies the qualitative rather than the quantitative aspects of a subject. Instead of looking at the aggregate, the ethnographic style of research will dive deeply into the lives of a relatively small number of people- focusing on their environment and social networks. By understanding the individual personally the researchers hopes to garner insight on the group he belongs to collectively.</p>
+
+<p>Design firms such as IDEO typically conduct this type of research, but ethnography is not commonly practiced in the business realm. Corporate researchers obsessed with benchmarking and impressions often forget that at the end of the day, what the user notices most and what keeps them using the product is function. Managers might contend that design is for Apple. The reality, as Nest, Tesla and Square (a b2b company) have shown, it is exactly the industries that have yet to be disrupted that need to start focusing more on products and less on sales, supply chains and price points.</p>
+
+<h3>Sharing data</h3>
+
+<p>In the current frenzy to collect and analyze as much data as possible, what is often left from the fold is that much of the data might not be useful for the company but potentially can be very useful for a partner. Facebook, Linkedin and Twitter (amount many others in the tech industry) have all made their information available to the public through the use of platforms. Companies in the more traditional hardware business can learn from this type of information sharing and may even find business opportunities in this endeavor. At the end of the day, the more knowledgeable your partners are the better business is for you.</p>
+
+<h3>Conclusion</h3>
+
+<p>We are currently still in the infancy of the information age for most industries. This has left business executives anxious to show their analysis capabilities. Like stockpiling weapons, companies greedily hoard information in hopes of one-upping the competition. Meta reporting &ndash; or reports about reports is a common theme in corporate. These behaviors essentially miss the point. Just because you can does not mean you should. More data does not mean more analysis, it means smarter analysis. Sometimes that may even mean not being swayed by the analysis. With everything quantifiable, it is now more important than ever to focus on the qualitative aspects of the your product, the quantitative aspects can serve as the guide. Without direction, it is easy to be lost in this ocean of information.</p>
+]]></content>
+  </entry>
+  
+</feed>

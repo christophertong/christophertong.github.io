@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://christophertong.github.io/blog/2013/10/26/visual-displays/</loc>
-        <lastmod>2014-06-26T07:08:07+09:00</lastmod>
+        <loc>http://christophertong.github.io/blog/2013/10/26/displays-cameras/</loc>
+        <lastmod>2014-10-13T21:52:35+09:00</lastmod>
     </url>
     <url>
-        <loc>http://christophertong.github.io/blog/2014/03/29/first-post/</loc>
-        <lastmod>2014-06-15T22:33:33+09:00</lastmod>
+        <loc>http://christophertong.github.io/blog/2014/03/29/simple-things-i-learned/</loc>
+        <lastmod>2014-10-13T21:52:35+09:00</lastmod>
     </url>
     <url>
-        <loc>http://christophertong.github.io/blog/2014/05/22/keep-dry-socks-part-2/</loc>
-        <lastmod>2014-07-13T18:21:05+09:00</lastmod>
+        <loc>http://christophertong.github.io/blog/2014/05/22/when-data-blurs/</loc>
+        <lastmod>2014-10-13T21:52:35+09:00</lastmod>
     </url>
     <url>
         <loc>http://christophertong.github.io/about/</loc>
-        <lastmod>2014-07-13T18:21:05+09:00</lastmod>
+        <lastmod>2014-10-13T21:54:31+09:00</lastmod>
     </url>
     <url>
         <loc>http://christophertong.github.io/blog/archives/</loc>
-        <lastmod>2014-07-13T18:21:05+09:00</lastmod>
+        <lastmod>2014-10-13T21:51:55+09:00</lastmod>
     </url>
     <url>
         <loc>http://christophertong.github.io/</loc>
-        <lastmod>2014-07-13T18:21:05+09:00</lastmod>
+        <lastmod>2014-10-13T21:51:55+09:00</lastmod>
     </url>
     <url>
         <loc>http://christophertong.github.io/portfolio/</loc>
-        <lastmod>2014-07-13T18:21:05+09:00</lastmod>
+        <lastmod>2014-10-13T21:51:55+09:00</lastmod>
     </url>
     <url>
         <loc>http://christophertong.github.io/portfolio/simucar/</loc>
@@ -34,7 +34,7 @@
     </url>
     <url>
         <loc>http://christophertong.github.io/posts/</loc>
-        <lastmod>2014-07-13T18:21:05+09:00</lastmod>
+        <lastmod>2014-10-13T21:51:55+09:00</lastmod>
     </url>
     <url>
         <loc>http://christophertong.github.io/robots.txt</loc>
@@ -42,10 +42,10 @@
     </url>
     <url>
         <loc>http://christophertong.github.io/simpleapp/</loc>
-        <lastmod>2014-07-13T18:21:05+09:00</lastmod>
+        <lastmod>2014-10-13T21:51:55+09:00</lastmod>
     </url>
     <url>
         <loc>http://christophertong.github.io/travel/</loc>
-        <lastmod>2014-07-13T18:21:05+09:00</lastmod>
+        <lastmod>2014-10-13T21:51:55+09:00</lastmod>
     </url>
 </urlset>

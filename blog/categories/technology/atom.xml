@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Technology | ChristopherTong]]></title>
   <link href="http://christophertong.github.io/blog/categories/technology/atom.xml" rel="self"/>
   <link href="http://christophertong.github.io/"/>
-  <updated>2014-07-13T18:23:09+09:00</updated>
+  <updated>2014-10-13T21:54:32+09:00</updated>
   <id>http://christophertong.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,15 +14,16 @@
 
   
   <entry>
-    <title type="html"><![CDATA[The Future of Visual Displays]]></title>
-    <link href="http://christophertong.github.io/blog/2013/10/26/visual-displays/"/>
+    <title type="html"><![CDATA[Displays and Cameras]]></title>
+    <link href="http://christophertong.github.io/blog/2013/10/26/displays-cameras/"/>
     <updated>2013-10-26T07:03:28+09:00</updated>
-    <id>http://christophertong.github.io/blog/2013/10/26/visual-displays</id>
-    <content type="html"><![CDATA[<p><i>An article on the future relationship between visual displays and cameras. I begin by decomposing the function of the television and camera. The next sections argues that camera technology will enable users to have a more natural way for human to computer interaction. Likewise, the camera will act as a tool in human to human communication.</i><!--more--></p>
+    <id>http://christophertong.github.io/blog/2013/10/26/displays-cameras</id>
+    <content type="html"><![CDATA[<p>An article on the future relationship between displays and cameras. I begin by decomposing the function of the television and camera. The next sections argue that camera technology will enable users to have a more natural way for human to computer interaction. Likewise, the camera will act as a tool in human to human communication.<!--more--></p>
 
 <h3>What are televisions?</h3>
 
-<p>Watching TV is a collective experience done in a group setting as televisions allow multiple users to view the output of information from a single source. The current market trends toward smaller screens for personal consumption by a single user. Smaller screens such as tablets offer more control over the immediate content that flows from the screen. Due to touch screen capability and a screen that is arm’s length away, the user can quickly interact with the content through games, web browsing, watching videos, reading or more commonly as a combination of the aforementioned.</p>
+<p>Watching TV is a collective experience done in a group setting as televisions allow multiple users to view the output of information from a single source.
+The current market trends toward smaller screens for personal consumption by a single user. Smaller screens such as tablets offer more control over the immediate content that flows from the screen. Due to touch screen capability and a screen that is arm’s length away, the user can quickly interact with the content through games, web browsing, watching videos, reading or more commonly as a combination of the aforementioned.</p>
 
 <p>Yet contrary to tablet screens, the single function of a television is for the user to only consume information. The size of screens keeps users at a distance, hindering content interaction. The traditional approach to interacting with content on the television has been through the use of the remote control. Remote controls are a very effective way of managing content in the past. It allowed users to adjust sound as well as sift through channels while providing a simple user interface via a system of real buttons. With practice, a viewer can navigate without taking the eyes off of the television. However television navigation strategies are no longer efficient in navigating the ever increasing content and entertainment options. Whereas media companies controlled the output of content in traditional television, current consumption trends toward users sifting through the vast amount of information on the web and dictating what they want to spend time consuming.</p>
 

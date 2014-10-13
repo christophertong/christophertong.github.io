@@ -4,7 +4,7 @@
   <title><![CDATA[ChristopherTong]]></title>
   <link href="http://christophertong.github.io/atom.xml" rel="self"/>
   <link href="http://christophertong.github.io/"/>
-  <updated>2014-07-13T18:23:09+09:00</updated>
+  <updated>2014-10-13T21:54:32+09:00</updated>
   <id>http://christophertong.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,13 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Don't Fall Into the Big Data Trap]]></title>
-    <link href="http://christophertong.github.io/blog/2014/05/22/keep-dry-socks-part-2/"/>
+    <title type="html"><![CDATA[When Data Blurs]]></title>
+    <link href="http://christophertong.github.io/blog/2014/05/22/when-data-blurs/"/>
     <updated>2014-05-22T06:44:11+09:00</updated>
-    <id>http://christophertong.github.io/blog/2014/05/22/keep-dry-socks-part-2</id>
-    <content type="html"><![CDATA[<p>When I feel lazy at the office, I go to the company library to read. On this particular afternoon I picked up MIT Sloan Management Review&rsquo;s issue dedicated to data analytics. Conceding to the fact that I can never escape from work, I sat down and flipped through an editorial to this statement: as we live in an age of data abundance, upper management in all industries are hurriedly attempting to use new forms of data to make business decisions. To me, the &ldquo;hurried&rdquo; mentality described by the editor is a primary reason why many companies still have not succeed in smartly utilizing their data. I spend an absurd amount of my waking hours making sense of numbers and can comfortably claim that sometimes numbers just do not have much to say- at least not on things that a manager may know how to act on. <!--more-->Too many traditional business minds see this new trend of information abundance as a crystal ball where plaguing questions originating from the dawn of the industry will automatically be answered. Or worse yet, they see it as a mathematical proof that long held theories are fundamentally sound. Managers that feel a great urgency to gain insight from this crystal ball are doomed to the realization that the answers they provide may be more murky than expected.</p>
+    <id>http://christophertong.github.io/blog/2014/05/22/when-data-blurs</id>
+    <content type="html"><![CDATA[<p>When I have the chance, I go to the company library to read. On this particular afternoon I picked up MIT Sloan Management Review&rsquo;s issue dedicated to data analytics. Conceding to the fact that I can never escape from work, I sat down and flipped through an editorial to this statement: as we live in an age of data abundance, upper management in all industries are hurriedly attempting to use new forms of data to make business decisions. To me, the &ldquo;hurried&rdquo; mentality described by the editor is a primary reason why many companies still have not succeed in smartly utilizing their data. I spend an absurd amount of my waking hours making sense of numbers and can comfortably claim that sometimes numbers just do not have much to say- at least not on things that a manager may know how to act on. <!--more-->Too many traditional business minds see this new trend of information abundance as a crystal ball where plaguing questions originating from the dawn of the industry will automatically be answered. Or worse yet, they see it as a mathematical proof that long held theories are fundamentally sound. Managers that feel a great urgency to gain insight from this crystal ball are doomed to the realization that the answers they provide may be more murky than expected.</p>
 
-<h3>Surveys as a bad form of information gathering</h3>
+<h3>Information gathering through Surveys</h3>
 
 <p>One of the root causes for the current infatuation with big data is the variety of sources that can be analyzed. Sales and shipments use to be the extent of information that an advanced intelligence team had to analyze their core business. Text, geospatial and clicktimes are fast becoming common commodities. But in many instances, companies not named Linkedin, Facebook or Google do not have the resources necessary for advanced research. Companies want insight on how consumers interact with their product. Enter the survey. On a scale of 1-10, how satisfied were you of this experience? How likely are you to recommend this product to your friends? With surveys, companies can analyze responses by region, age group and social economic status. Overall this source of information gathering is a crude way to quantify a previously unquantifiable attribute. Now with technology, qualitative analysis has suddenly become quantifiable and as such there is no actually determent to using surveys as an inadequate placeholder.</p>
 
@@ -36,21 +36,21 @@
 
 <p>Design firms such as IDEO typically conduct this type of research, but ethnography is not commonly practiced in the business realm. Corporate researchers obsessed with benchmarking and impressions often forget that at the end of the day, what the user notices most and what keeps them using the product is function. Managers might contend that design is for Apple. The reality, as Nest, Tesla and Square (a b2b company) have shown, it is exactly the industries that have yet to be disrupted that need to start focusing more on products and less on sales, supply chains and price points.</p>
 
-<h2>Sharing data</h2>
+<h3>Sharing data</h3>
 
 <p>In the current frenzy to collect and analyze as much data as possible, what is often left from the fold is that much of the data might not be useful for the company but potentially can be very useful for a partner. Facebook, Linkedin and Twitter (amount many others in the tech industry) have all made their information available to the public through the use of platforms. Companies in the more traditional hardware business can learn from this type of information sharing and may even find business opportunities in this endeavor. At the end of the day, the more knowledgeable your partners are the better business is for you.</p>
 
-<h2>Conclusion</h2>
+<h3>Conclusion</h3>
 
 <p>We are currently still in the infancy of the information age for most industries. This has left business executives anxious to show their analysis capabilities. Like stockpiling weapons, companies greedily hoard information in hopes of one-upping the competition. Meta reporting &ndash; or reports about reports is a common theme in corporate. These behaviors essentially miss the point. Just because you can does not mean you should. More data does not mean more analysis, it means smarter analysis. Sometimes that may even mean not being swayed by the analysis. With everything quantifiable, it is now more important than ever to focus on the qualitative aspects of the your product, the quantitative aspects can serve as the guide. Without direction, it is easy to be lost in this ocean of information.</p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Keep the Socks Dry - What I Learned While Traveling]]></title>
-    <link href="http://christophertong.github.io/blog/2014/03/29/first-post/"/>
+    <title type="html"><![CDATA[Simple Things I Learned While Traveling]]></title>
+    <link href="http://christophertong.github.io/blog/2014/03/29/simple-things-i-learned/"/>
     <updated>2014-03-29T11:55:48+09:00</updated>
-    <id>http://christophertong.github.io/blog/2014/03/29/first-post</id>
+    <id>http://christophertong.github.io/blog/2014/03/29/simple-things-i-learned</id>
     <content type="html"><![CDATA[<p>Since graduating in May of last year, I have been lucky enough to spend time in 20 cities, 11 countries, in 3 continents. Some nights I staked out in swanky company hotel rooms. Others were far more humble &ndash; freezing on a stranger&rsquo;s couch, hoping that the person who used the sheets before me kept good hygiene. During my travels I made some very poor decisions which I have aggregated here so that you and I will not make the same mistakes again. Here are the top few things that I wish I knew last May<!--more-->:</p>
 
 <h2>Nothing will ever go as planned</h2>
@@ -92,15 +92,16 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[The Future of Visual Displays]]></title>
-    <link href="http://christophertong.github.io/blog/2013/10/26/visual-displays/"/>
+    <title type="html"><![CDATA[Displays and Cameras]]></title>
+    <link href="http://christophertong.github.io/blog/2013/10/26/displays-cameras/"/>
     <updated>2013-10-26T07:03:28+09:00</updated>
-    <id>http://christophertong.github.io/blog/2013/10/26/visual-displays</id>
-    <content type="html"><![CDATA[<p><i>An article on the future relationship between visual displays and cameras. I begin by decomposing the function of the television and camera. The next sections argues that camera technology will enable users to have a more natural way for human to computer interaction. Likewise, the camera will act as a tool in human to human communication.</i><!--more--></p>
+    <id>http://christophertong.github.io/blog/2013/10/26/displays-cameras</id>
+    <content type="html"><![CDATA[<p>An article on the future relationship between displays and cameras. I begin by decomposing the function of the television and camera. The next sections argue that camera technology will enable users to have a more natural way for human to computer interaction. Likewise, the camera will act as a tool in human to human communication.<!--more--></p>
 
 <h3>What are televisions?</h3>
 
-<p>Watching TV is a collective experience done in a group setting as televisions allow multiple users to view the output of information from a single source. The current market trends toward smaller screens for personal consumption by a single user. Smaller screens such as tablets offer more control over the immediate content that flows from the screen. Due to touch screen capability and a screen that is arm’s length away, the user can quickly interact with the content through games, web browsing, watching videos, reading or more commonly as a combination of the aforementioned.</p>
+<p>Watching TV is a collective experience done in a group setting as televisions allow multiple users to view the output of information from a single source.
+The current market trends toward smaller screens for personal consumption by a single user. Smaller screens such as tablets offer more control over the immediate content that flows from the screen. Due to touch screen capability and a screen that is arm’s length away, the user can quickly interact with the content through games, web browsing, watching videos, reading or more commonly as a combination of the aforementioned.</p>
 
 <p>Yet contrary to tablet screens, the single function of a television is for the user to only consume information. The size of screens keeps users at a distance, hindering content interaction. The traditional approach to interacting with content on the television has been through the use of the remote control. Remote controls are a very effective way of managing content in the past. It allowed users to adjust sound as well as sift through channels while providing a simple user interface via a system of real buttons. With practice, a viewer can navigate without taking the eyes off of the television. However television navigation strategies are no longer efficient in navigating the ever increasing content and entertainment options. Whereas media companies controlled the output of content in traditional television, current consumption trends toward users sifting through the vast amount of information on the web and dictating what they want to spend time consuming.</p>
 
